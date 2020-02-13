@@ -1,0 +1,5 @@
+[web]
+X.X.X.X
+
+[web:vars]
+user=mondomaine

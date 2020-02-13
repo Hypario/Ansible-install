@@ -1,0 +1,9 @@
+php_version: 7.4
+
+domain: mondomaine.local
+deploy_to: /home/{{ user }}/{{ domain }}
+
+mysql_db: mondomaine
+mysql_user: mondomaine
+mysql_password: mondomaine
+mysql_root_password: root

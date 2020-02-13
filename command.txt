@@ -1,0 +1,3 @@
+ansible-playbook -k -i hosts install.yml
+it will launch install.yml using the hosts file
+it ask for the SSH password
